@@ -2,6 +2,6 @@
 
 Some updates.
 
-Edit on example branch.
-
 Updates online.
+
+Updates local.
