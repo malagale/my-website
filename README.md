@@ -2,8 +2,4 @@
 
 Some updates.
 
-Updates online.
-
-Updates local.
-
-Last update.
+Updates made online before rebase.
