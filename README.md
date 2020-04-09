@@ -4,6 +4,6 @@ Some updates.
 
 Updates made online before rebase.
 
-## Updates
+## Repository
 
-local changes.
+online and local.
