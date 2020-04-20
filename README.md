@@ -11,3 +11,7 @@ online and local.
 ## Purpose
 
 online course.
+
+## Getting Started
+
+Just *clone* this repo.
